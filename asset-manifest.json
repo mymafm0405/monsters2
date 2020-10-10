@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mymafm0405/monsters2.git/static/css/main.15f7cecc.chunk.css",
+    "main.js": "/mymafm0405/monsters2.git/static/js/main.65518d78.chunk.js",
+    "main.js.map": "/mymafm0405/monsters2.git/static/js/main.65518d78.chunk.js.map",
+    "runtime-main.js": "/mymafm0405/monsters2.git/static/js/runtime-main.c207e822.js",
+    "runtime-main.js.map": "/mymafm0405/monsters2.git/static/js/runtime-main.c207e822.js.map",
+    "static/js/2.356d906f.chunk.js": "/mymafm0405/monsters2.git/static/js/2.356d906f.chunk.js",
+    "static/js/2.356d906f.chunk.js.map": "/mymafm0405/monsters2.git/static/js/2.356d906f.chunk.js.map",
+    "index.html": "/mymafm0405/monsters2.git/index.html",
+    "precache-manifest.3bfadd32f776eaa2b6d8ee72de27aa6c.js": "/mymafm0405/monsters2.git/precache-manifest.3bfadd32f776eaa2b6d8ee72de27aa6c.js",
+    "service-worker.js": "/mymafm0405/monsters2.git/service-worker.js",
+    "static/css/main.15f7cecc.chunk.css.map": "/mymafm0405/monsters2.git/static/css/main.15f7cecc.chunk.css.map",
+    "static/js/2.356d906f.chunk.js.LICENSE.txt": "/mymafm0405/monsters2.git/static/js/2.356d906f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c207e822.js",
+    "static/js/2.356d906f.chunk.js",
+    "static/css/main.15f7cecc.chunk.css",
+    "static/js/main.65518d78.chunk.js"
+  ]
+}
